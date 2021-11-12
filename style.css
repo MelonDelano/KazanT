@@ -4,12 +4,33 @@ body{
     height:auto;
 }
 
-nav { background-color:  cornflowerblue;
+nav { background-color: #7ba4a8;
        
+}
+.nav-link{
+color:#dddede;
+}
+
+.dropdown-menu{
+background-color: #7ba4a8;   
+background-size: 100%; 
+}
+
+.section-delimiter{
+    background-color: #404040;
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 5px; 
+    margin-bottom: 50px; 
+    padding: 25px;
+}
+
+.body-section{
+  margin:10px auto 5px;
 }
 
 section{
-    background-color: gray; 
+    background-color: #7ba4a8; 
     margin-left: 100px; 
     margin-right: 100px; 
     margin-top: 50px; 
@@ -35,6 +56,14 @@ section{
 
 .align-center {
   text-align: center;
+}
+
+.card-link{
+    text-align: center;
+}
+
+.card-text{
+: 55%;
 }
 
 .main-footer{
