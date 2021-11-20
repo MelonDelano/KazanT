@@ -95,7 +95,12 @@ text-align: center;
     width: 65%;
     padding: 0 1em;
   }
-  
+
+.title-navig{
+color: black;
+font-size: 30px;
+}
+
 .pesontedan {
     position: relative;
     margin-bottom: 1px;
@@ -190,6 +195,10 @@ text-align: center;
     text-align: center;
 }
 
+.btn-subcsribe{
+padding-top: 10px;
+}
+
 .outline{
 border: 10px;
 border-color:  darkred;
@@ -208,7 +217,13 @@ color: white;
 li{
   padding-bottom: 15px;
 }
+.text-center{
+color: black;
+}
 
+.form-group{
+  text-align: center;
+}
 .koguvcavis-varazdel {
   padding: 38px 0;
   background: #adadad;
