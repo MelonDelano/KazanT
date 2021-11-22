@@ -290,3 +290,33 @@ color: black;
 .form-group{
   padding-bottom: 10px;
 }
+
+.Aboutourdesign{
+  background: #adadad;
+  color: #2f2f2f; 
+  padding-top: 30px; 
+}
+
+.Aboutustitle{
+  align-content: center; 
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.Aboutus{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.Aboutourtitle{
+text-align: center;
+}
+
+.Aboutour{
+  padding-left: 80px;
+  padding-right: 50px;
+  padding-bottom: 15px; 
+}
+
