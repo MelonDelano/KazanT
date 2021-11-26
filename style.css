@@ -11,6 +11,7 @@ nav { background-color: #404040;
 color:white;
 margin-top: 18px;
 text-emphasis-color: white;
+font-size: larger;
 }
 
 .navbar-brand{
@@ -189,10 +190,12 @@ font-size: 30px;
 }
 .description{
     margin: 50px;
+    font-size: larger;
 }
 .heading{
     font-weight: bold;
     text-align: center;
+    font-size: x-large;
 }
 
 .btn-subcsribe{
@@ -319,4 +322,34 @@ text-align: center;
   padding-right: 50px;
   padding-bottom: 15px; 
 }
+
+.background-img-cont{
+  text-align: center;
+}
+
+.background-img{
+  width: 460px; 
+  height: 460px;
+  border: none;
+}
+
+.clean-list{
+  padding-top: 5px;
+}
+
+.icon-img{
+  width: 60px; 
+  height: 60px;
+  border: none;
+}
+
+.widget-comp{
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.icon-comp{
+list-style: none;  
+}
+
 
